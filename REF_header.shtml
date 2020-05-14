@@ -1,7 +1,7 @@
 
-<link rel="stylesheet" type="text/css" href="../../css/global_layout.css" title="style1" />
-<link rel="stylesheet" type="text/css" href="../../css/global.css" title="style1" />
-<link rel="stylesheet" type="text/css" href="../../css/issue.css" title="style1" />
+<link rel="stylesheet" type="text/css" href="global_layout.css" title="style1" />
+<link rel="stylesheet" type="text/css" href="global.css" title="style1" />
+<link rel="stylesheet" type="text/css" href="issue.css" title="style1" />
 
 
 <script type="text/javascript" src="../../Scripts/loadImages.js"></script>
@@ -15,7 +15,7 @@
 <div id="headerWrap">
 
 <div id="headerTopRow">
-<a href="index.shtml"><img name="toplogo" src="../../images/headerBar/toplogo.gif" width="147" height="33" border="0" alt="blackbird" /></a><span class="redSpacer1"><img name="tagline" src="../../images/headerBar/tagline.gif" width="237" height="33" border="0" alt="online journal" /></span><span class="redSpacer2"><img name="dateline" src="../../images/headerBar/dateline/dateline.gif" width="204" height="33" border="0" alt="Fall 2014  Vol. 16 No. 2" style="text-align: right;" /><br />
+<a href="index.html"><img name="toplogo" src="../../images/headerBar/toplogo.gif" width="147" height="33" border="0" alt="blackbird" /></a><span class="redSpacer1"><img name="tagline" src="../../images/headerBar/tagline.gif" width="237" height="33" border="0" alt="online journal" /></span><span class="redSpacer2"><img name="dateline" src="../../images/headerBar/dateline/dateline.gif" width="204" height="33" border="0" alt="Fall 2014  Vol. 16 No. 2" style="text-align: right;" /><br />
 /></span></div> 
 
   <!--  This code runs together! - If you insert line breaks, extra space may appear between the images! -->
