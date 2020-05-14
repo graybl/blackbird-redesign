@@ -1,0 +1,301 @@
+/* PRINT VERSION LINK GRAPHIC  */
+
+
+/* Unique CSS Styles for this issue of Blackbird Magazine */
+
+/* Common */
+
+/* NARROWED CONTENT CONTAINER FOR INCLUDE PAGE W/ RIGHT ALIGNMENTS spring 2012 -mkeller */
+.narrowColumn {
+	vertical-align:top;
+	text-align:left;
+	width:460px;
+	float:left;
+	padding-left:30px;
+	}
+
+.poem{
+	width: 750px;
+}
+/* .poem class added by Mason Robertson to accomodate Carol Ann Davis' extra wide poems, spring 2020*/
+
+.inline-letter-miller {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #333;
+	left: -1px;
+	left: -106px;
+	left: 2px;
+	left: -54px;
+	left: -105px;
+	left: 2px;
+	left: -101px;
+}
+
+.facsimile {
+	font-family: "Times New Roman", Times, serif; 
+	font-size: 14px; 
+	font-style: normal; 
+	line-height: 21px; 
+	font-weight: normal; 
+	color: #000000
+}
+
+
+.inlinetext-miller {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 19px;
+	font-weight: normal;
+}
+
+.inlinetext-miller-2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 22px;
+	font-weight: normal;
+}
+
+
+/* nonfiction */
+
+
+
+.fineprint-menu-icon {
+	font-size: 10px; 
+	line-height: 19px; 
+	font-family: Verdana, Arial, Helvetica, sans-serif
+}
+
+
+/* poetry  */
+
+/* styles for MAYA SARISHVILI translations v12n2 */
+
+.inline_georgian {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #333;
+}
+
+.inline_georgian_head {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold; 
+	color: #333;
+}
+
+/* styles for Bhagavad Gita v11n1 numbers, stanzas, names */
+
+.offsetnumber {
+	position:absolute;
+	left:350px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px; 
+	
+}
+
+.majorstanza {
+	position:relative;
+	left:0px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: 16px;
+	font-weight: normal;
+	color: #000000;
+	
+}
+
+.linestanza {
+	position:relative;
+	left:50px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	/*line-height: 2px;*/
+	font-weight: normal;
+	color: #000000;
+	
+}
+
+.inlinetext-increasedleading {
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 12px; 
+	font-style: normal; 
+	line-height: 20px; 
+	font-weight: normal; 
+	color: #000000
+}
+
+.inlinetext-double {
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 12px; 
+	font-style: normal; 
+	line-height: 26px; 
+	font-weight: normal; 
+	color: #000000
+}
+
+.inlinetext-double-stanza {
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 12px; 
+	font-style: normal; 
+	line-height: 26px; 
+	font-weight: normal; 
+	color: #000000;
+	padding-bottom: 10px;	
+}
+
+
+.inlinetext-gray {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: 26px;
+	font-weight: normal;
+	color: #666666;
+}
+
+.postcard-number {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: bold; 
+	vertical-align:bottom;
+	text-align:left;
+	width:75px;
+	float:left;
+	color: #222222
+	}
+
+.postcard-next {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	vertical-align:bottom;
+	text-align:right;
+	width:120px;
+	float:right;
+	}
+	
+	
+.next {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	vertical-align:top;
+	text-align:right;
+	width:120px;
+	float:right;
+	/*padding-right: 33px;
+	display: inline-block;*/
+	}
+
+.ochre-next {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	vertical-align:top;
+	text-align:right;
+	width:120px;
+	float:right;
+	}
+
+.ochre-toc {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 72px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #990100;
+	text-decoration: none;
+}
+
+
+/* quill alignment added for v9n1*/
+#quill {
+	position:relative;
+	left:140px;
+	top:63px;
+	width:375px;
+	height:400px;
+	z-index:1;
+}
+
+#quillquote {
+	position:relative;
+	left:140px;
+	top:0px;
+	width:300px;
+	height:115px;
+	z-index:1;
+}
+
+#quillmenu {
+	position:relative;
+	left:0px;
+	top:0px;
+	width:514px;
+	height:20px;
+	z-index:1;
+}
+/* sidenote added issue v9n2 */
+
+.note-side {
+	border-left-style: ridge;
+	position: relative;
+	right: auto;
+	width: 264px;
+	border-left-color: #808000;
+	border-left-width: thin;
+	text-align: left;
+	padding-left: 6px;
+	float: right;
+	margin-left: 15px;
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+/* sidenote added issue v9n2 by keller */
+
+.note-inline {
+	border-left-style: ridge;
+	position: relative;
+	right: auto;
+	width: 270px;
+	border-left-color: #808000;
+	border-left-width: thin;
+	text-align: left;
+	padding-left: 6px;
+	float: none;
+	margin-left: 250px;
+	margin-bottom: 0px;
+	margin-top: 10px;
+	
+	
+}
+
+/* features-right-image added issue v9n2 by keller */
+
+.feature-right-image {
+	position: relative;
+	left: auto;
+	width: 160px;
+	text-align: left;
+	padding-right: 110px;
+	float: right;
+	margin-left: 0px;
+	margin-right: 120;
+	margin-bottom: 35px;
+	margin-top: 5px;
+	
+	
+}
